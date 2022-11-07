@@ -1,0 +1,7 @@
+/node_modules
+/.idea
+/.vscode
+.env
+package-lock.json
+.vercel
+.DS_Store
